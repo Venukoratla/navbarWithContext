@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.dark-theme {
+  background-color: #000000;
+  color: #ffffff;
+}
+.nav-dark {
+  background-color: #333333;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
